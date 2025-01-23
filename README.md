@@ -50,10 +50,10 @@ A **Smart Agri-Bot** is a robot or automated system designed to assist in agricu
 - **Blue River Technology**: AI-powered system for targeted spraying of herbicides.
 
 5.**Components used**:
--**Relay Module**
--**Raindrop module**
--**Soil moisture sensor**
--**DHT11**
--**NodeMCU ESP8266** 
+-**Relay Module**.
+-**Raindrop module**.
+-**Soil moisture sensor**.
+-**DHT11**.
+-**NodeMCU ESP8266**. 
 
 Done by **Adithiya Anbarasan,Prajin Angelo,Yogith.S,Chithresh S.P**
