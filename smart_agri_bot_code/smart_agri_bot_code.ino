@@ -3,8 +3,8 @@
 #include <DHT.h>
 
 // WiFi credentials
-const char* ssid = "Hotspot";
-const char* password = "S1234567";
+const char* ssid = "XXXX";
+const char* password = "xxxxxx";
 
 ESP8266WebServer server(80);
 
