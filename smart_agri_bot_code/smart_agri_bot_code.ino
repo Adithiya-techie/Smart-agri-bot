@@ -72,7 +72,6 @@ void loop() {
 
 void handleRoot() {
     String html = "<h1>Welcome to Smart Agriculture System</h1>";
-    html += "<p>This project is made by the students of Grade 9 from Sairam LeoMuthu Public School</p>";
     html += "<p>In this webserver You can see the real-time conditions around the plant and about the plant</p>";
     html += "<p><a href='/data'>View Sensor Data</a></p>";
 
