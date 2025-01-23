@@ -49,6 +49,11 @@ A **Smart Agri-Bot** is a robot or automated system designed to assist in agricu
 - **Naio Technologies**: Robots for weeding, hoeing, and crop monitoring.
 - **Blue River Technology**: AI-powered system for targeted spraying of herbicides.
 
-Would you like to explore the design, programming, or applications of a specific type of Smart Agri-Bot?
+5.**Components used**:
+-**Relay Module**
+-**Raindrop module**
+-**Soil moisture sensor**
+-**DHT11**
+-**NodeMCU ESP8266** 
 
-Done by Adithiya Anbarasan,Prajin Angelo,Yogith.S,Chithresh S.P
+Done by **Adithiya Anbarasan,Prajin Angelo,Yogith.S,Chithresh S.P**
