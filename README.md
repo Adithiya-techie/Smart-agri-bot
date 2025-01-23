@@ -51,4 +51,4 @@ A **Smart Agri-Bot** is a robot or automated system designed to assist in agricu
 
 Would you like to explore the design, programming, or applications of a specific type of Smart Agri-Bot?
 
-Done by Adithiya Anbarasan,Prajin Angelo,Yogith.s
+Done by Adithiya Anbarasan,Prajin Angelo,Yogith.s,Chithresh S.P
